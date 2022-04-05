@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JozzaOzza, I am new to coding
-- 👀 I’m interested in Algo Trading, Machine Learning and most things coding related tbh ...
-- 🌱 I’m currently learning Python 3 on Codecademy, already done some JavaScript and Bash...
+- 👋 Hi, I’m @JozzaOzza, I'm pretty new to this
+- 👀
+- 🌱 I’ve done a bit of backend (Java, MySQL, SpringBoot, Express, MongoDB) and frontend (JavaScript, HTML, CSS, React)
 
 
 <!---
