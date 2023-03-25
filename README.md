@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @JozzaOzza, I'm pretty new to this
-- 👀
-- 🌱 I’ve done a bit of backend (Java, MySQL, SpringBoot, Express, MongoDB) and frontend (JavaScript, HTML, CSS, React)
+- 👋 Hi, I’m @JozzaOzza,
+- I mostly do DevOps/Platform work
+- But I also want to be able to program properly, and learn about computing more broadly
+- Interested in building web applications, or machine learning algorithms
+- C# is the language I know best, but want to improve my JavaScript (or TypeScript) and Python
+
 
 
 <!---
